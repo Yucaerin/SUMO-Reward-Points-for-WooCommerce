@@ -20,7 +20,6 @@
 - [Proof of Concept](#proof-of-concept)
 - [Technical Details](#technical-details)
 - [Exploitation Requirements](#exploitation-requirements)
-- [Step-by-Step Exploitation](#step-by-step-exploitation)
 - [References](#references)
 
 ---
