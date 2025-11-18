@@ -3,7 +3,7 @@
 ## 🔴 Critical Security Vulnerability
 
 **Plugin**: SUMO Reward Points for WooCommerce  
-**Researcher**: Yucaerin
+**Researcher**: Yucaerin  
 **Affected Version**: <= 31.8.0 (Latest)  
 **Vulnerability Type**: Missing Authorization / IDOR  
 **CVSS Score**: 7.5 (HIGH)  
